@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mporcicatonisde00keilgoog_0012.png"; bbox 0 0 2874 4994; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 12 663 951 989">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 12 663 951 989">
+     <span class='ocr_line' id='line_1_1' title="bbox 12 663 951 989; baseline -0.002 -215"><span class='ocrx_word' id='word_1_1' title='bbox 12 834 18 989; x_wconf 55' lang='grc'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 321 663 951 775; x_wconf 79' lang='lat' dir='ltr'><strong>COMMENTARIVS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 58 1405 1203 1544">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 58 1405 1203 1544">
+     <span class='ocr_line' id='line_1_2' title="bbox 58 1405 1203 1544; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 58 1407 406 1544; x_wconf 77' lang='lat' dir='ltr'><strong>CATONIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 453 1409 553 1541; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 600 1405 806 1542; x_wconf 81' lang='lat' dir='ltr'><strong>AGRI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 851 1407 1203 1543; x_wconf 78' lang='lat' dir='ltr'>OVLTVRA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 396 2944 1389 3092">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 396 2944 1389 3092">
+     <span class='ocr_line' id='line_1_3' title="bbox 396 2944 1389 3092; baseline -0.003 -35"><span class='ocrx_word' id='word_1_7' title='bbox 396 2989 684 3057; x_wconf 66' lang='lat' dir='ltr'>ammove</span> <span class='ocrx_word' id='word_1_8' title='bbox 722 2989 863 3056; x_wconf 73' lang='lat' dir='ltr'><strong>xm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1071 3089 1072 3092; x_wconf 4' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1108 2944 1228 3067; x_wconf 71' lang='grc' dir='ltr'><strong>ζ’·,ξῖ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1387 3021 1389 3025; x_wconf 92' lang='grc'><strong>-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 576 3519 676 3717">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 576 3519 676 3717">
+     <span class='ocr_line' id='line_1_4' title="bbox 576 3519 676 3717; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 576 3519 676 3717; x_wconf 72' lang='lat' dir='ltr'>ffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 520 4188 722 4254">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 520 4188 722 4254">
+     <span class='ocr_line' id='line_1_5' title="bbox 520 4188 722 4254; baseline -0.01 0"><span class='ocrx_word' id='word_1_13' title='bbox 520 4188 722 4254; x_wconf 80' lang='lat' dir='ltr'><strong>LIPSIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1442 4994">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1442 4994">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1442 4994; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1442 4994; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
